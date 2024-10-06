@@ -4,9 +4,9 @@
   "iconURL": "https://istorebox.me/public/uploads/images/site-img/9a6L8pAMjCbco1O.png",
   "apps": [
     {
-      "name": "Feather",
-      "bundleIdentifier": "kh.crysalis.feather",
-      "developerName": "Samara",
+      "name": "iStoreBox",
+      "bundleIdentifier": "app.istorebox.me",
+      "developerName": "Mohammed",
       "iconURL": "https://istorebox.me/public/uploads/images/site-img/9a6L8pAMjCbco1O.png",
       "localizedDescription": "Resign App for ios iphone",
       "subtitle": "On-device signing application",
