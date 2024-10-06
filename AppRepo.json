@@ -1,0 +1,23 @@
+{
+  "name": "iStoreBox Repository",
+  "identifier": "app.istorebox.me-repo",
+  "iconURL": "https://istorebox.me/public/uploads/images/site-img/9a6L8pAMjCbco1O.png",
+  "apps": [
+    {
+      "name": "Feather",
+      "bundleIdentifier": "kh.crysalis.feather",
+      "developerName": "Samara",
+      "iconURL": "https://istorebox.me/public/uploads/images/site-img/9a6L8pAMjCbco1O.png",
+      "localizedDescription": "Resign App for ios iphone",
+      "subtitle": "On-device signing application",
+      "tintColor": "828ef9",
+      "versions": [],
+      "size": 12375230,
+      "version": "1.0.0",
+      "versionDate": "2024-10-03T18:34:10Z",
+      "downloadURL": "https://istorebox.me/public/uploads/app.ipa",
+      "appPermissions": {}
+    }
+  ],
+  "news": []
+}
